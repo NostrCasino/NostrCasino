@@ -3,7 +3,7 @@ Casino Games On Nostr
 ## Coin Flip 
 The quickest way to double your sats on the internet!
 
-npub: npub1hcrrt6y2dlcqncu4zsfse0medtvgqj264ts730dp7j04klcjw2eqh568rg
+npub: [npub1hcrrt6y2dlcqncu4zsfse0medtvgqj264ts730dp7j04klcjw2eqh568rg](nostr:npub1hcrrt6y2dlcqncu4zsfse0medtvgqj264ts730dp7j04klcjw2eqh568rg)
 - https://snort.social/p/npub1hcrrt6y2dlcqncu4zsfse0medtvgqj264ts730dp7j04klcjw2eqh568rg
 - https://iris.to/coinflip@nostrcasino.com
 
